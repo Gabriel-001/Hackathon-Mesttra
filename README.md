@@ -1,6 +1,6 @@
 # Hackathon-Mesttra
 ...
-Integrantes/Funções: 
+Integrantes: 
   -Ellenylce 
   -Gabriel Pires
   -Gabriel Magalhães
